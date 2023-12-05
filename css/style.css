@@ -50,7 +50,7 @@ h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
-    color: #024959;
+    color: #92AFD6;
 }
 
 p {
@@ -460,7 +460,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 
 .dark-bg {
-    background: #3CA6A6;
+    background: #2D9CB7;
     color: #fff;
 }
 
@@ -473,7 +473,7 @@ figure.effect-bubba:hover p {
 }
 
 .light-bg {
-	background-color: #F2E3D5;
+	background-color: #AFEBE8;
 }
 
 .overlay-dark:before, .overlay-light:before {
